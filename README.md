@@ -1,22 +1,18 @@
-<div align="center">
-  <br/><br/><br/>
-<a href="https://404answernotfound.eu/about">
-    <img width="240" align="center" style="display: inline-block; border: 2px solid green; border-radius: 50%" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=128&q=75">
-</a>    
-  
+# Bigmat 👨🏼‍💻
+
+**`Developer and Coputer science student`**
+
+I'm a mainly back-end developer currently studyng CS in <a>Pisa University</a> (Second year).
+
+<!--
+### 🧰 Languages and Tools
+<div>
+  <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width='30px' height: '30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/django.svg" />
 </div>
+-->
 
-<details>
-  <summary>🏆 GitHub Trophies</summary><br>  
-  
-  ![](https://github-profile-trophy.vercel.app/?username=404answernotfound&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-</details>
+### 📊 Stats
 
-<details>
-  <summary>🏆 GitHub Acknowledgements</summary><br>
-  <div>
-    <a href="https://404answernotfound.eu">
-      <img src="https://metrics.lecoq.io/404answernotfound?template=classic&config.timezone=Europe%2FRome">
-    </a>
-  </div>
-</details>
+![Bigmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigmat18&show_icons=true&theme=gruvbox)
