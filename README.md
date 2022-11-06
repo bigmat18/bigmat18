@@ -23,11 +23,11 @@ I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa Univers
 
 ### 📊 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bigmat18&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigmat18&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/bigmat18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bigmat18&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bigmat18's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigmat18&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-#### Top Repositories
+### ⭐️ Top Repositories
 
 <a href="https://github.com/bigmat18/Appunti-Informatica-UNIPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigmat18&repo=Appunti-Informatica-UNIPI&theme=buefy" />
