@@ -10,6 +10,7 @@ I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa Univers
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" />
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" />
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" />
+  <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg" />
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" />
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" />
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" />
