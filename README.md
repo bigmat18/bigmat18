@@ -20,6 +20,7 @@ I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa Univers
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" />
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" />
   <img width='45px' height: '45px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" />
+  <img width='45px' height: '45px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" />
 </div>
 
 ### 📊 Stats
