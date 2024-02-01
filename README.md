@@ -1,6 +1,6 @@
 # Bigmat 👨🏼‍💻
 
-**`Developer and computer Science student`**
+**`Developer and Computer Science student`**
 
 I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa University</a></b> (Second year).
 
