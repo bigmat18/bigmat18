@@ -34,6 +34,6 @@ I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa Univers
 <a href="https://github.com/bigmat18/Appunti-Informatica-UNIPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigmat18&repo=Appunti-Informatica-UNIPI&theme=buefy" />
 </a>
-<a href="https://github.com/bigmat18/Project4U-Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigmat18&repo=Project4U-Backend&theme=buefy" />
+<a href="https://github.com/bigmat18/OpenGLBasic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigmat18&repo=OpenGLBasic&theme=buefy" />
 </a>
