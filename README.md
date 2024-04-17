@@ -2,7 +2,7 @@
 
 **`Developer and Computer Science student`**
 
-I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa University</a></b> (Second year).
+I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa University</a></b> (Third year).
 
 ### 🧰 Languages and Tools
 <div>
