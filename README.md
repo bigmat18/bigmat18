@@ -2,8 +2,7 @@
 
 **`Developer and Computer Science student`**
 
-I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa University</a></b> (Third year).
-
+I'm primarily a <b>Graphics Developer</b>, currently enrolled in a Master's program in Computer Science at <b>University of Pisa</b>
 ### 🧰 Languages and Tools
 <div>
   <img width='40px' height: '40px' src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" />
@@ -30,9 +29,8 @@ I'm a mainly <b>Backend developer</b> currently studyng CS in <b><a>Pisa Univers
 
 
 ### ⭐️ Top Repositories
-
-<a href="https://github.com/bigmat18/Appunti-Informatica-UNIPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigmat18&repo=Appunti-Informatica-UNIPI&theme=buefy" />
+<a href="https://github.com/bigmat18/bgfx-lines">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigmat18&repo=bgfx-lines&theme=buefy" />
 </a>
 <a href="https://github.com/bigmat18/OverCyde">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigmat18&repo=OverCyde&theme=buefy" />
