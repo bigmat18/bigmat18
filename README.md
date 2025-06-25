@@ -53,19 +53,12 @@ I'm driven by a passion for creating efficient and visually compelling graphics 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-
-  <a href="https://github.com/bigmat18" target="_blank">
-    <img height="130px" src="https://github-readme-stats.vercel.app/api?username=bigmat18&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=3c3836,7c6f64,7c6f64,a89984,a89984&theme=graywhite&count_private=true" alt="Bigmat18's github stats" />
-  </a>
-  <a href="https://github.com/bigmat18" target="_blank">
-    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigmat18&hide_title=true&layout=compact&bg_color=3c3836,bdae93,bdae93,a89984&theme=graywhite" alt="Bigmat18's top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bigmat18" target="_blank">
-    <img height="220px" src="https://github-readme-activity-graph.vercel.app/graph?username=bigmat18&bg_color=3c3836&color=a89984&line=7c6f64&point=bdae93&area=true&hide_border=true" alt="Bigmat18's github activity graph" />
-  </a>
+<a href="https://github.com/bigmat18" target="_blank">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=bigmat18&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=d5c4a1,d5c4a1,d5c4a1&title_color=3c3836&text_color=3c3836&icon_color=3c3836&border_color=fbf1c7&theme=default&count_private=true" alt="Bigmat18's github stats" />
+</a>
+<a href="https://github.com/bigmat18" target="_blank">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigmat18&hide_title=true&layout=compact&bg_color=a89984,a89984,a89984&title_color=3c3836&text_color=3c3836&icon_color=3c3836&border_color=fbf1c7&theme=default" alt="Bigmat18's top languages" />
+</a>
 </p>
 
 <p align="center">
