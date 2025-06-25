@@ -17,13 +17,13 @@
     <a href="https://github.com/bigmat18" target="_blank">
       <img src="https://img.shields.io/badge/-GitHub-3c3836?style=flat-square&logo=github&logoColor=d5c4a1" alt="GitHub Profile"/>
     </a>
-    <a href="https://www.linkedin.com/in/matteo-giuntoni-251178258/" target="_blank">
+    <a href="https://www.linkedin.com/in/matteo-giuntoni-b578361b5/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-7c6f64?style=flat-square&logo=linkedin&logoColor=d5c4a1" alt="LinkedIn Profile"/>
     </a>
     <a href="mailto:mat.giu2002@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-bdae93?style=flat-square&logo=gmail&logoColor=3c3836" alt="Email"/>
     </a>
-    <a href="https://bigmat18.github.io/nixos-config/" target="_blank">
+    <a href="https://github.com/bigmat18/nixos-config" target="_blank">
       <img src="https://img.shields.io/badge/-NixOS Config-a89984?style=flat-square&logo=nixos&logoColor=3c3836" alt="NixOS Config"/>
     </a>
   </p>
